@@ -58,7 +58,7 @@ public class FirstTest {
 
         WebElement userName = driver.findElement(By.id("ap_email"));
         userName.clear();
-        userName.sendKeys("alexbradfordautomation@gmail.com");
+        userName.sendKeys("alexdemo");
 
         WebElement password = driver.findElement(By.id("ap_password"));
         password.clear();
