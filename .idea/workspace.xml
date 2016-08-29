@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="552f3fe6-12a6-49c2-8a70-7b0b340b67f4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AmazonSelenium.iml" afterPath="$PROJECT_DIR$/DemoQaSelenium.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/testcases/FirstTest.java" afterPath="$PROJECT_DIR$/src/test/java/testcases/FirstTest.java" />
     </list>
     <ignored path="DemoQaSelenium.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/testcases/FirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="203">
-              <caret line="60" column="49" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="49" />
+              <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -884,7 +881,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/testcases/FirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
-          <caret line="60" column="49" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="49" />
+          <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
